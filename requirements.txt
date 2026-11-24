@@ -1,0 +1,8 @@
+matplotlib
+
+streamlit>=1.30.0
+tensorflow>=2.15.0
+keras>=2.15.0
+tf-keras>=2.15.0
+numpy>=1.25.0
+pillow>=10.0.0
